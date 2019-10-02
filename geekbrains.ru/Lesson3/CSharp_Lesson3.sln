@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quest2", "Quest2\Quest2.csproj", "{199B8E04-7954-4B50-95D5-400F3F404AD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YashinLib", "YashinLib\YashinLib.csproj", "{C6D96747-F015-4822-8694-13F3E310EA5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quest3", "Quest3\Quest3.csproj", "{EE12D59B-5D96-4609-9E2B-F4985BD79B5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{199B8E04-7954-4B50-95D5-400F3F404AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199B8E04-7954-4B50-95D5-400F3F404AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199B8E04-7954-4B50-95D5-400F3F404AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199B8E04-7954-4B50-95D5-400F3F404AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D96747-F015-4822-8694-13F3E310EA5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D96747-F015-4822-8694-13F3E310EA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D96747-F015-4822-8694-13F3E310EA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D96747-F015-4822-8694-13F3E310EA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE12D59B-5D96-4609-9E2B-F4985BD79B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE12D59B-5D96-4609-9E2B-F4985BD79B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE12D59B-5D96-4609-9E2B-F4985BD79B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE12D59B-5D96-4609-9E2B-F4985BD79B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E63AFADB-4244-472A-B93E-ADB30A462965}
+	EndGlobalSection
+EndGlobal

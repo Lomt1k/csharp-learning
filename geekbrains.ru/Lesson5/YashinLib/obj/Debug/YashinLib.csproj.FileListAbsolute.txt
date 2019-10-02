@@ -1,0 +1,10 @@
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\YashinLib\bin\Debug\YashinLib.dll
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\YashinLib\bin\Debug\YashinLib.pdb
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\YashinLib\obj\Debug\YashinLib.csproj.CoreCompileInputs.cache
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\YashinLib\obj\Debug\YashinLib.dll
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\YashinLib\obj\Debug\YashinLib.pdb
+C:\Users\Lwanegur\source\repos\CSharp_Lesson3\YashinLib\bin\Debug\YashinLib.dll
+C:\Users\Lwanegur\source\repos\CSharp_Lesson3\YashinLib\bin\Debug\YashinLib.pdb
+C:\Users\Lwanegur\source\repos\CSharp_Lesson3\YashinLib\obj\Debug\YashinLib.csproj.CoreCompileInputs.cache
+C:\Users\Lwanegur\source\repos\CSharp_Lesson3\YashinLib\obj\Debug\YashinLib.dll
+C:\Users\Lwanegur\source\repos\CSharp_Lesson3\YashinLib\obj\Debug\YashinLib.pdb

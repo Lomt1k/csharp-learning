@@ -1,0 +1,9 @@
+C:\Users\Lwanegur\source\repos\CSharp_Lesson5\Quest2\obj\Debug\Quest2.csprojResolveAssemblyReference.cache
+C:\Users\Lwanegur\source\repos\CSharp_Lesson5\Quest2\obj\Debug\Quest2.csproj.CoreCompileInputs.cache
+C:\Users\Lwanegur\source\repos\CSharp_Lesson5\Quest2\bin\Debug\Quest2.exe.config
+C:\Users\Lwanegur\source\repos\CSharp_Lesson5\Quest2\bin\Debug\Quest2.exe
+C:\Users\Lwanegur\source\repos\CSharp_Lesson5\Quest2\bin\Debug\Quest2.pdb
+C:\Users\Lwanegur\source\repos\CSharp_Lesson5\Quest2\bin\Debug\YashinLib.dll
+C:\Users\Lwanegur\source\repos\CSharp_Lesson5\Quest2\bin\Debug\YashinLib.pdb
+C:\Users\Lwanegur\source\repos\CSharp_Lesson5\Quest2\obj\Debug\Quest2.exe
+C:\Users\Lwanegur\source\repos\CSharp_Lesson5\Quest2\obj\Debug\Quest2.pdb

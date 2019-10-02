@@ -1,0 +1,10 @@
+C:\Users\Lwanegur\source\repos\Udvoitel\Udvoitel\bin\Debug\Udvoitel.exe.config
+C:\Users\Lwanegur\source\repos\Udvoitel\Udvoitel\bin\Debug\Udvoitel.exe
+C:\Users\Lwanegur\source\repos\Udvoitel\Udvoitel\bin\Debug\Udvoitel.pdb
+C:\Users\Lwanegur\source\repos\Udvoitel\Udvoitel\obj\Debug\Udvoitel.csprojResolveAssemblyReference.cache
+C:\Users\Lwanegur\source\repos\Udvoitel\Udvoitel\obj\Debug\Udvoitel.Properties.Resources.resources
+C:\Users\Lwanegur\source\repos\Udvoitel\Udvoitel\obj\Debug\Udvoitel.csproj.GenerateResource.Cache
+C:\Users\Lwanegur\source\repos\Udvoitel\Udvoitel\obj\Debug\Udvoitel.csproj.CoreCompileInputs.cache
+C:\Users\Lwanegur\source\repos\Udvoitel\Udvoitel\obj\Debug\Udvoitel.exe
+C:\Users\Lwanegur\source\repos\Udvoitel\Udvoitel\obj\Debug\Udvoitel.pdb
+C:\Users\Lwanegur\source\repos\Udvoitel\Udvoitel\obj\Debug\Udvoitel.Udvoitel.resources
