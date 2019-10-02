@@ -1,0 +1,6 @@
+C:\Users\Lwanegur\source\repos\Lesson1\Quest5\bin\Debug\Quest5.exe.config
+C:\Users\Lwanegur\source\repos\Lesson1\Quest5\bin\Debug\Quest5.exe
+C:\Users\Lwanegur\source\repos\Lesson1\Quest5\bin\Debug\Quest5.pdb
+C:\Users\Lwanegur\source\repos\Lesson1\Quest5\obj\Debug\Quest5.csproj.CoreCompileInputs.cache
+C:\Users\Lwanegur\source\repos\Lesson1\Quest5\obj\Debug\Quest5.exe
+C:\Users\Lwanegur\source\repos\Lesson1\Quest5\obj\Debug\Quest5.pdb

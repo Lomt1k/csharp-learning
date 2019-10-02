@@ -1,0 +1,7 @@
+C:\Users\Lwanegur\source\repos\Lesson1\Quest1\obj\Debug\Quest1.csprojResolveAssemblyReference.cache
+C:\Users\Lwanegur\source\repos\Lesson1\Quest1\obj\Debug\Quest1.csproj.CoreCompileInputs.cache
+C:\Users\Lwanegur\source\repos\Lesson1\Quest1\bin\Debug\Quest1.exe.config
+C:\Users\Lwanegur\source\repos\Lesson1\Quest1\bin\Debug\Quest1.exe
+C:\Users\Lwanegur\source\repos\Lesson1\Quest1\bin\Debug\Quest1.pdb
+C:\Users\Lwanegur\source\repos\Lesson1\Quest1\obj\Debug\Quest1.exe
+C:\Users\Lwanegur\source\repos\Lesson1\Quest1\obj\Debug\Quest1.pdb
