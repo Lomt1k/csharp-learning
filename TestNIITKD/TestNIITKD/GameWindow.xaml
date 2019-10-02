@@ -1,0 +1,82 @@
+﻿<Window x:Class="TestNIITKD.GameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestNIITKD"
+        mc:Ignorable="d"
+        Title="GameWindow" Height="450" Width="800" Closing="Window_Closing" Icon="pack://siteoforigin:,,,/Resources/apple.png" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF5F5C5C">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="475*"/>
+            <ColumnDefinition Width="99*"/>
+            <ColumnDefinition Width="204*"/>
+            <ColumnDefinition Width="14*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="ГЛАВНОЕ МЕНЮ" VerticalAlignment="Bottom" Margin="87,0,0,366" Height="32" Background="#FFCD4444" Click="ButtonMenu_Click" RenderTransformOrigin="-0.178,0.761" Grid.Column="2"/>
+
+        <Grid HorizontalAlignment="Right" Height="300" Margin="0,0,133,35" VerticalAlignment="Bottom" Width="300              " Background="#FF2C2C2C" ShowGridLines="True">
+            <!-- Устанавливаем три строки -->
+            <Grid.RowDefinitions>
+                <RowDefinition ></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <!-- Устанавливаем три столбца -->
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <!-- Размещаем элементы в сетке -->
+            <Button x:Name="cell0" Grid.Row="0" Grid.Column="0" Background="#FF6E746E" MouseRightButtonDown="Button_Cell0_RMB" AllowDrop="True" Drop="cell0_Drop">
+                <Image x:Name="cell0img" Source="pack://siteoforigin:,,,/Resources/apple.png" AllowDrop="True" MouseLeftButtonDown="cell0_MouseLeftButtonDown"/>
+            </Button>
+            <Button x:Name="cell1" Grid.Row="0" Grid.Column="1" Background="#FF6E746E" MouseRightButtonDown="Button_Cell1_RMB" AllowDrop="True" Drop="cell1_Drop">
+                <Image x:Name="cell1img" Source="pack://siteoforigin:,,,/Resources/apple.png" AllowDrop="True" MouseLeftButtonDown="cell1_MouseLeftButtonDown"/>
+            </Button>
+            <Button x:Name="cell2" Grid.Row="0" Grid.Column="2" Background="#FF6E746E" MouseRightButtonDown="Button_Cell2_RMB" AllowDrop="True" Drop="cell2_Drop">
+                <Image x:Name="cell2img" Source="pack://siteoforigin:,,,/Resources/apple.png" AllowDrop="True" MouseLeftButtonDown="cell2_MouseLeftButtonDown"/>
+            </Button>
+            <Button x:Name="cell3" Grid.Row="1" Grid.Column="0" Background="#FF6E746E" MouseRightButtonDown="Button_Cell3_RMB" AllowDrop="True" Drop="cell3_Drop">
+                <Image x:Name="cell3img" Source="pack://siteoforigin:,,,/Resources/apple.png" AllowDrop="True" MouseLeftButtonDown="cell3_MouseLeftButtonDown"/>
+            </Button>
+            <Button x:Name="cell4" Grid.Row="1" Grid.Column="1" Background="#FF6E746E" MouseRightButtonDown="Button_Cell4_RMB" AllowDrop="True" Drop="cell4_Drop">
+                <Image x:Name="cell4img" Source="pack://siteoforigin:,,,/Resources/apple.png" AllowDrop="True" MouseLeftButtonDown="cell4_MouseLeftButtonDown"/>
+            </Button>
+            <Button x:Name="cell5" Grid.Row="1" Grid.Column="2" Background="#FF6E746E" MouseRightButtonDown="Button_Cell5_RMB" AllowDrop="True" Drop="cell5_Drop">
+                <Image x:Name="cell5img" Source="pack://siteoforigin:,,,/Resources/apple.png" AllowDrop="True" MouseLeftButtonDown="cell5_MouseLeftButtonDown"/>
+            </Button>
+            <Button x:Name="cell6" Grid.Row="2" Grid.Column="0" Background="#FF6E746E" MouseRightButtonDown="Button_Cell6_RMB" AllowDrop="True" Drop="cell6_Drop">
+                <Image x:Name="cell6img" Source="pack://siteoforigin:,,,/Resources/apple.png" AllowDrop="True" MouseLeftButtonDown="cell6_MouseLeftButtonDown"/>
+            </Button>
+            <Button x:Name="cell7" Grid.Row="2" Grid.Column="1" Background="#FF6E746E" MouseRightButtonDown="Button_Cell7_RMB" AllowDrop="True" Drop="cell7_Drop">
+                <Image x:Name="cell7img" Source="pack://siteoforigin:,,,/Resources/apple.png" AllowDrop="True" MouseLeftButtonDown="cell7_MouseLeftButtonDown"/>
+            </Button>
+            <Button x:Name="cell8" Grid.Row="2" Grid.Column="2" Background="#FF6E746E" MouseRightButtonDown="Button_Cell8_RMB" AllowDrop="True" Drop="cell8_Drop">
+                <Image x:Name="cell8img" Source="pack://siteoforigin:,,,/Resources/apple.png" AllowDrop="True" MouseLeftButtonDown="cell8_MouseLeftButtonDown"/>
+            </Button>
+            <!-- Счетчик предметов -->
+            <Label x:Name="cell0label" Content="0" Grid.Row="0" Grid.Column="0" Foreground="White" VerticalAlignment="Bottom" HorizontalAlignment="Right" FontSize="16" Background="{x:Null}" FontWeight="Bold"/>
+            <Label x:Name="cell1label" Content="0" Grid.Row="0" Grid.Column="1" Foreground="White" VerticalAlignment="Bottom" HorizontalAlignment="Right" FontSize="16" Background="{x:Null}" FontWeight="Bold"/>
+            <Label x:Name="cell2label" Content="0" Grid.Row="0" Grid.Column="2" Foreground="White" VerticalAlignment="Bottom" HorizontalAlignment="Right" FontSize="16" Background="{x:Null}" FontWeight="Bold"/>
+            <Label x:Name="cell3label" Content="0" Grid.Row="1" Grid.Column="0" Foreground="White" VerticalAlignment="Bottom" HorizontalAlignment="Right" FontSize="16" Background="{x:Null}" FontWeight="Bold"/>
+            <Label x:Name="cell4label" Content="0" Grid.Row="1" Grid.Column="1" Foreground="White" VerticalAlignment="Bottom" HorizontalAlignment="Right" FontSize="16" Background="{x:Null}" FontWeight="Bold"/>
+            <Label x:Name="cell5label" Content="0" Grid.Row="1" Grid.Column="2" Foreground="White" VerticalAlignment="Bottom" HorizontalAlignment="Right" FontSize="16" Background="{x:Null}" FontWeight="Bold"/>
+            <Label x:Name="cell6label" Content="0" Grid.Row="2" Grid.Column="0" Foreground="White" VerticalAlignment="Bottom" HorizontalAlignment="Right" FontSize="16" Background="{x:Null}" FontWeight="Bold"/>
+            <Label x:Name="cell7label" Content="0" Grid.Row="2" Grid.Column="1" Foreground="White" VerticalAlignment="Bottom" HorizontalAlignment="Right" FontSize="16" Background="{x:Null}" FontWeight="Bold"/>
+            <Label x:Name="cell8label" Content="0" Grid.Row="2" Grid.Column="2" Foreground="White" VerticalAlignment="Bottom" HorizontalAlignment="Right" FontSize="16" Background="{x:Null}" FontWeight="Bold"/>
+
+        </Grid>
+
+        <Button Grid.Column="1" HorizontalAlignment="Left" Margin="50,157,0,0" VerticalAlignment="Top" Width="150" Height="150" Grid.ColumnSpan="2" Background="#FF83A470">
+            <Image x:Name="itemSource" Source="pack://siteoforigin:,,,/Resources/apple.png" AllowDrop="True" MouseLeftButtonDown="itemSource_MouseLeftButtonDown"/>
+        </Button>
+        <Label Content="Инвентарь" Foreground="White" FontSize="16" HorizontalAlignment="Left" Margin="40,44,0,0" VerticalAlignment="Top" Background="{x:Null}" RenderTransformOrigin="0.482,1.038"/>
+        <Label Content="Яблоня" Foreground="White" FontSize="16" HorizontalAlignment="Left" Margin="50,125,0,0" VerticalAlignment="Top" Background="{x:Null}" RenderTransformOrigin="0.482,1.038" Grid.ColumnSpan="2" Grid.Column="1"/>
+
+        <Button Grid.ColumnSpan="2" Content="СОХРАНИТЬ ИГРУ" Margin="63,365,131,0" VerticalAlignment="Top" Height="32" Background="#FF5FCF69" Click="ButtonSave_Click" Grid.Column="1"/>
+        <Button Content="ЗАГРУЗИТЬ ИГРУ" HorizontalAlignment="Right" Margin="0,365,1,0" VerticalAlignment="Top" Width="110" Height="32" Background="#FFFBD425" Grid.Column="2" Click="ButtonLoad_Click"/>
+
+    </Grid>
+</Window>

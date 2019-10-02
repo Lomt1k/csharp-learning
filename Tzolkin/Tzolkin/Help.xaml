@@ -1,0 +1,22 @@
+﻿<Window x:Class="Tzolkin.Help"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tzolkin"
+        mc:Ignorable="d"
+        Title="Справка" Height="444.886" Width="623.579" ResizeMode="NoResize">
+    <Grid Background="#FF2D2D30">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="102*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+
+        <ScrollViewer x:Name="scrollViewer" HorizontalAlignment="Left" Height="400" Margin="0,10,0,0" VerticalAlignment="Top" Width="600" HorizontalScrollBarVisibility="Auto" Grid.ColumnSpan="2" Grid.Column="1">
+            <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Foreground="White" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="2450" Width="580" FontWeight="Bold" Loaded="textBlock_Loaded"/>
+        </ScrollViewer>
+
+    </Grid>
+</Window>

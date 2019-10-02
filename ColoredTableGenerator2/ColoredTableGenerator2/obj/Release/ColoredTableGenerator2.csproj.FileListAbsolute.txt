@@ -1,0 +1,10 @@
+C:\Users\yashi\source\repos\ColoredTableGenerator2\ColoredTableGenerator2\obj\Release\ColoredTableGenerator2.Form1.resources
+C:\Users\yashi\source\repos\ColoredTableGenerator2\ColoredTableGenerator2\obj\Release\ColoredTableGenerator2.csproj.GenerateResource.cache
+C:\Users\yashi\source\repos\ColoredTableGenerator2\ColoredTableGenerator2\obj\Release\ColoredTableGenerator2.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\ColoredTableGenerator2\ColoredTableGenerator2\bin\Release\ColoredTableGenerator.exe.config
+C:\Users\yashi\source\repos\ColoredTableGenerator2\ColoredTableGenerator2\bin\Release\ColoredTableGenerator.exe
+C:\Users\yashi\source\repos\ColoredTableGenerator2\ColoredTableGenerator2\bin\Release\ColoredTableGenerator.pdb
+C:\Users\yashi\source\repos\ColoredTableGenerator2\ColoredTableGenerator2\obj\Release\ColoredTableGenerator.Properties.Resources.resources
+C:\Users\yashi\source\repos\ColoredTableGenerator2\ColoredTableGenerator2\obj\Release\ColoredTableGenerator.exe
+C:\Users\yashi\source\repos\ColoredTableGenerator2\ColoredTableGenerator2\obj\Release\ColoredTableGenerator.pdb
+C:\Users\yashi\source\repos\ColoredTableGenerator2\ColoredTableGenerator2\obj\Release\ColoredTableGenerator2.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\bin\Debug\Tzolkin.exe.config
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\bin\Debug\Tzolkin.exe
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\bin\Debug\Tzolkin.pdb
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\obj\Debug\Tzolkin.csprojAssemblyReference.cache
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\obj\Debug\MainWindow.g.cs
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\obj\Debug\App.g.cs
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\obj\Debug\Tzolkin_MarkupCompile.cache
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\obj\Debug\Tzolkin_MarkupCompile.lref
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\obj\Debug\MainWindow.baml
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\obj\Debug\Tzolkin.g.resources
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\obj\Debug\Tzolkin.Properties.Resources.resources
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\obj\Debug\Tzolkin.csproj.GenerateResource.cache
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\obj\Debug\Tzolkin.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\obj\Debug\Tzolkin.exe
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\obj\Debug\Tzolkin.pdb
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\obj\Debug\Help.g.cs
+C:\Users\yashi\source\repos\Tzolkin\Tzolkin\obj\Debug\Help.baml
