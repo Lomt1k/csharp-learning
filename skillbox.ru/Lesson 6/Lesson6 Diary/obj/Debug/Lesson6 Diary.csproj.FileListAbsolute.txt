@@ -1,0 +1,7 @@
+C:\Users\yashi\source\repos\Lesson6 Diary\Lesson6 Diary\bin\Debug\Lesson6 Diary.exe.config
+C:\Users\yashi\source\repos\Lesson6 Diary\Lesson6 Diary\bin\Debug\Lesson6 Diary.exe
+C:\Users\yashi\source\repos\Lesson6 Diary\Lesson6 Diary\bin\Debug\Lesson6 Diary.pdb
+C:\Users\yashi\source\repos\Lesson6 Diary\Lesson6 Diary\obj\Debug\Lesson6 Diary.csprojAssemblyReference.cache
+C:\Users\yashi\source\repos\Lesson6 Diary\Lesson6 Diary\obj\Debug\Lesson6 Diary.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\Lesson6 Diary\Lesson6 Diary\obj\Debug\Lesson6 Diary.exe
+C:\Users\yashi\source\repos\Lesson6 Diary\Lesson6 Diary\obj\Debug\Lesson6 Diary.pdb

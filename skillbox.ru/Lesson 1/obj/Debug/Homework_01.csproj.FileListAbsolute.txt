@@ -1,0 +1,14 @@
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\bin\Debug\Homework_01.exe.config
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\bin\Debug\Homework_01.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\bin\Debug\Homework_01.pdb
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.csprojAssemblyReference.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.exe
+C:\Users\Sk\source\repos\SkillBoxCodeSource\Lesson_01\Homework_01\obj\Debug\Homework_01.pdb
+C:\Users\yashi\source\repos\skillbox\homework01\bin\Debug\Homework_01.exe.config
+C:\Users\yashi\source\repos\skillbox\homework01\bin\Debug\Homework_01.exe
+C:\Users\yashi\source\repos\skillbox\homework01\bin\Debug\Homework_01.pdb
+C:\Users\yashi\source\repos\skillbox\homework01\obj\Debug\Homework_01.csprojAssemblyReference.cache
+C:\Users\yashi\source\repos\skillbox\homework01\obj\Debug\Homework_01.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\skillbox\homework01\obj\Debug\Homework_01.exe
+C:\Users\yashi\source\repos\skillbox\homework01\obj\Debug\Homework_01.pdb

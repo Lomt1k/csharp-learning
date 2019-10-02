@@ -1,0 +1,1 @@
+Открыть файл Homework_01.csproj при помощи Visual Studio

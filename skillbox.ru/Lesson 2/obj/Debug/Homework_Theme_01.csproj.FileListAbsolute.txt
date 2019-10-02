@@ -1,0 +1,7 @@
+C:\Users\yashi\Desktop\Homework_Theme_01\bin\Debug\Homework_Theme_01.exe.config
+C:\Users\yashi\Desktop\Homework_Theme_01\bin\Debug\Homework_Theme_01.exe
+C:\Users\yashi\Desktop\Homework_Theme_01\bin\Debug\Homework_Theme_01.pdb
+C:\Users\yashi\Desktop\Homework_Theme_01\obj\Debug\Homework_Theme_01.csprojAssemblyReference.cache
+C:\Users\yashi\Desktop\Homework_Theme_01\obj\Debug\Homework_Theme_01.csproj.CoreCompileInputs.cache
+C:\Users\yashi\Desktop\Homework_Theme_01\obj\Debug\Homework_Theme_01.exe
+C:\Users\yashi\Desktop\Homework_Theme_01\obj\Debug\Homework_Theme_01.pdb
