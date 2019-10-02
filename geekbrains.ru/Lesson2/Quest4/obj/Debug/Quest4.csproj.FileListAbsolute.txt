@@ -1,0 +1,8 @@
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest4\bin\Debug\Quest4.exe.config
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest4\bin\Debug\Quest4.exe
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest4\bin\Debug\Quest4.pdb
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest4\bin\Debug\YashinLib.dll
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest4\bin\Debug\YashinLib.pdb
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest4\obj\Debug\Quest4.csproj.CoreCompileInputs.cache
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest4\obj\Debug\Quest4.exe
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest4\obj\Debug\Quest4.pdb

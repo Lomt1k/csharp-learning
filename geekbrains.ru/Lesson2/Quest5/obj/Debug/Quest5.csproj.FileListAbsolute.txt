@@ -1,0 +1,9 @@
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest5\bin\Debug\Quest5.exe.config
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest5\bin\Debug\Quest5.exe
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest5\bin\Debug\Quest5.pdb
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest5\bin\Debug\YashinLib.dll
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest5\bin\Debug\YashinLib.pdb
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest5\obj\Debug\Quest5.csprojResolveAssemblyReference.cache
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest5\obj\Debug\Quest5.csproj.CoreCompileInputs.cache
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest5\obj\Debug\Quest5.exe
+C:\Users\Lwanegur\source\repos\CSharp_Lesson2\Quest5\obj\Debug\Quest5.pdb
