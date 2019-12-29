@@ -1,0 +1,6 @@
+C:\Projects\LinqExample\LinqExample\bin\Debug\LinqExample.exe.config
+C:\Projects\LinqExample\LinqExample\bin\Debug\LinqExample.exe
+C:\Projects\LinqExample\LinqExample\bin\Debug\LinqExample.pdb
+C:\Projects\LinqExample\LinqExample\obj\Debug\LinqExample.csprojAssemblyReference.cache
+C:\Projects\LinqExample\LinqExample\obj\Debug\LinqExample.exe
+C:\Projects\LinqExample\LinqExample\obj\Debug\LinqExample.pdb
